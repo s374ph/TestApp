@@ -1,0 +1,4 @@
+#Tue Mar 13 21:37:52 EET 2018
+base.0=/home/martynas/react/test/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/home/martynas/react/test/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

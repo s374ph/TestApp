@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/martynas/react/test/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.52.0/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/home/martynas/react/test/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_5c6205ac9cba22391926729dce9397f6d3f3dd1c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/martynas/react/test/android/app/build/intermediates/exploded-aar/test/appcenter/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="dab24f349ebc99ceca8614fd2f01e4a9f45de62f">
+        <dex dex="/home/martynas/react/test/android/app/build/intermediates/pre-dexed/debug/test-appcenter-unspecified_eb818421c7640d163388b90eadd053ab18574953.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/martynas/react/test/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/home/martynas/react/test/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_0358c57da2e3ff3577b9d2db7b7ee0fc43bc3183.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/martynas/react/test/android/app/build/intermediates/exploded-aar/com.microsoft.appcenter/appcenter-crashes/1.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6bd52147f5ef772da73fceb7bc142de89e6463c7">
+        <dex dex="/home/martynas/react/test/android/app/build/intermediates/pre-dexed/debug/com.microsoft.appcenter-appcenter-crashes-1.4.0_67bc1bcb94712a31668b85d64cec425c91a1c9b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/martynas/react/test/android/app/build/intermediates/exploded-aar/com.microsoft.appcenter.reactnative/appcenter-react-native/1.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="7c8d727d5c0c0f32861a28cb04846b3eab770eda">
+        <dex dex="/home/martynas/react/test/android/app/build/intermediates/pre-dexed/debug/com.microsoft.appcenter.reactnative-appcenter-react-native-1.4.0_1f2a2214c7d4a903631baf9af8eab1b43197b4e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/martynas/react/test/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/home/martynas/react/test/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_b463d606a1a2a52a7747e44e7bbdb04bd0997655.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/martynas/react/test/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.52.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="af61eb11ffb4296cab0c93218248a3dfcec0a84c">
+        <dex dex="/home/martynas/react/test/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.52.0_2ac6fcdff6c427f1aae4a655a37121a47588da13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/martynas/react/test/android/app/build/intermediates/exploded-aar/test/appcenter-crashes/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c4e1c8ebe514df97678862d596028a94eebc4362">
+        <dex dex="/home/martynas/react/test/android/app/build/intermediates/pre-dexed/debug/test-appcenter-crashes-unspecified_71122a639a2e0ff630d0ae425e22297488946432.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/martynas/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/home/martynas/react/test/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_3885ca648d5ee91932455d79245db483470119fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/martynas/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/home/martynas/react/test/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_dd219589b66a37c2ec394ee211e01d8bf4c9a839.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/martynas/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/home/martynas/react/test/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_29b14a04d6990aac5cfb0e87c3f1bb9b311daf01.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/martynas/react/test/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/home/martynas/react/test/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_cd2dd89aac019aeb5bec4217c3bc0c71775caed7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/martynas/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/home/martynas/react/test/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_67c96fc884c95ab7c6badbdfe5ec5bd715268f9f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/martynas/react/test/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/home/martynas/react/test/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_b80327a9fbb95eb6efbee1e858080f89e31bb3f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/martynas/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/martynas/react/test/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_9f5ebff4910418e3cc2dd18665d1660cbe8298d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/martynas/react/test/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/home/martynas/react/test/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_4443a42d8d72b2746738e596b9b2c33aeba1e41e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/martynas/react/test/android/app/build/intermediates/exploded-aar/test/appcenter-analytics/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="90819836417a64977fa215a822b0172a6035178e">
+        <dex dex="/home/martynas/react/test/android/app/build/intermediates/pre-dexed/debug/test-appcenter-analytics-unspecified_72e122f4bb9922e3398c100f6cc5ca95891f95c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/martynas/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/home/martynas/react/test/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_de19956d428b650ccc4218ba48d30ce88652c543.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/martynas/react/test/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/home/martynas/react/test/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_037bf5159c94facf5bb0b7db01e08862c9a9b88a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/martynas/react/test/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/home/martynas/react/test/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_318bd4bde9bb662761fb1b8f501a3de1f3557992.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/martynas/react/test/android/app/build/intermediates/exploded-aar/com.microsoft.appcenter/appcenter-analytics/1.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="91a5523e559e6fd3ebba510c1bbdd9b70e72cf7d">
+        <dex dex="/home/martynas/react/test/android/app/build/intermediates/pre-dexed/debug/com.microsoft.appcenter-appcenter-analytics-1.4.0_49ba5ae7b413a579310006ec7dc1a3ea48ef0a68.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/martynas/react/test/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/home/martynas/react/test/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_588902118c84778e3273d7bfcd1701385223d8ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/martynas/react/test/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/home/martynas/react/test/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_0e00ab2edb83065ca2ecafa8ef06cda86e5f2a18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/martynas/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/home/martynas/react/test/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_446587086f3715b25bce642b0f26d858ea2ef091.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/martynas/react/test/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/home/martynas/react/test/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_efb018353101a3d056af6c5d7adb73b90105544a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/martynas/react/test/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/home/martynas/react/test/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_755a6addbad813dbcea9ba4c5d54737addccf912.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/martynas/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/home/martynas/react/test/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_d69f74af3a9da4fd8b87571ffcd11159a36ca108.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/martynas/react/test/android/app/build/intermediates/exploded-aar/com.microsoft.appcenter/appcenter/1.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2bfc14d8462fee6b03fb02d26c275b49f8af6358">
+        <dex dex="/home/martynas/react/test/android/app/build/intermediates/pre-dexed/debug/com.microsoft.appcenter-appcenter-1.4.0_d9f4322a1f40ea1fa949f98f714f968ae0b0cd57.jar" />
+    </item>
+
+</items>
